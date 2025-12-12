@@ -117,7 +117,7 @@ RegiSci is in active early development. We welcome:
 - **Instrument developers** looking to integrate structured provenance
 - **Software tool builders** who want to emit or consume RegiSci instances
 
-Contact: @cryosagar
+Contact: [@cryosagar](https://github.com/sagarbiophysics)
 
 ## License
 
