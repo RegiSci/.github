@@ -1,4 +1,4 @@
-# RegiSci — Registry of Scientific Instances
+# RegiSci: Registry of Scientific Instances
 
 **A structured, type-safe, open registry for scientific data provenance, reproducibility, and interoperability**
 
